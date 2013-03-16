@@ -1,1 +1,3 @@
 Dashboard Fragment
+Launch Icon
+Settings Icon
